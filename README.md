@@ -22,5 +22,5 @@ Para instruções detalhadas sobre como usar o AlvoTracker, consulte o Guia de U
 ## Suporte
 Para suporte técnico ou dúvidas, entre em contato:
 
-Desenvolvedor: emrs
-Contato: emrs.borges@protonmail.com
+#### Desenvolvedor: emrs
+#### Contato: emrs.borges@protonmail.com

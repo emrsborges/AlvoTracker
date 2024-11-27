@@ -5,6 +5,7 @@ AlvoTracker é um sistema desenvolvido para auxiliar delegacias na gestão e org
 
 ## Download
 Baixe a versão mais recente aqui
+https://github.com/emrsborges/AlvoTracker-Release/releases/latest
 
 ## Requisitos do Sistema
 #### Sistema Operacional: Windows 10 ou superior

@@ -19,6 +19,10 @@ Baixe a versão mais recente aqui:
 ## Documentação
 Para instruções detalhadas sobre como usar o AlvoTracker, consulte o Guia de Utilização.
 
+## Vídeo demonstrativo das principais funcionalidades do AlvoTracker: 
+
+[![Alt text](https://github.com/user-attachments/assets/c87809ef-e6bf-49ae-97c5-0b194caffe6e)](https://youtu.be/hosMC2tcq-A)
+
 ## Suporte
 Para suporte técnico ou dúvidas, entre em contato:
 

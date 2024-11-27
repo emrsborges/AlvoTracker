@@ -4,8 +4,8 @@
 AlvoTracker é um sistema desenvolvido para auxiliar delegacias na gestão e organização de informações sobre alvos. Este repositório contém apenas os arquivos necessários para a instalação e uso do programa.
 
 ## Download
-Baixe a versão mais recente aqui
-https://github.com/emrsborges/AlvoTracker-Release/releases/latest
+Baixe a versão mais recente aqui:
+#### https://github.com/emrsborges/AlvoTracker-Release/releases/latest
 
 ## Requisitos do Sistema
 #### Sistema Operacional: Windows 10 ou superior

@@ -17,7 +17,10 @@ Baixe a versão mais recente aqui:
 #### 3. Execute o arquivo "AlvoTracker.exe".
 
 ## Documentação
-Para instruções detalhadas sobre como usar o AlvoTracker, consulte o Guia de Utilização.
+Para instruções detalhadas sobre como usar o **AlvoTracker**, consulte o **Guia de Utilização**.
+
+## Logos
+Os logos são personalizáveis. Caso o seu setor tenha um logo específico, você pode substituí-lo, mas é importante manter o mesmo nome.
 
 ## Vídeo demonstrativo das principais funcionalidades do AlvoTracker: 
 

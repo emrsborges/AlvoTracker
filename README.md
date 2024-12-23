@@ -24,7 +24,7 @@ Os logos são personalizáveis. Caso o seu setor tenha um logo específico, voc�
 
 ## Vídeo demonstrativo das principais funcionalidades do AlvoTracker: 
 
-[![Alt text](https://github.com/user-attachments/assets/c14c8864-8db3-4f0e-8dd4-1f395580167e)](https://youtu.be/hosMC2tcq-A)
+[![Alt text](https://img.youtube.com/vi/hosMC2tcq-A/0.jpg)](https://youtu.be/hosMC2tcq-A)
 
 ## Suporte
 Para suporte técnico ou dúvidas, entre em contato:

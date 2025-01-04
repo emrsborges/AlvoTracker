@@ -18,7 +18,7 @@ AlvoTracker é um sistema de gerenciamento de informações desenvolvido para au
 ##### PyQt5 para interface gráfica
 ##### SQLite para armazenamento de dados
 ##### ReportLab para geração de PDFs
-##### Bibliotecas adicionais: hashlib, json, qrcode, entre outras
+##### Bibliotecas adicionais: hashlib, json, entre outras
 
 ## Aplicações
 O AlvoTracker é ideal para delegacias que necessitam manter um registro detalhado e seguro de indivíduos, com capacidade de rápida recuperação de informações e geração de relatórios. Sua flexibilidade permite adaptação para diversos contextos onde o monitoramento e a gestão de informações pessoais são cruciais.

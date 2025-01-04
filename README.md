@@ -1,7 +1,27 @@
 # AlvoTracker - Sistema de Cadastro de Alvos para Delegacias de Polícia
 
 ## Descrição
-AlvoTracker é um sistema desenvolvido para auxiliar delegacias na gestão e organização de informações sobre alvos. Este repositório contém apenas os arquivos necessários para a instalação e uso do programa.
+AlvoTracker é um sistema de gerenciamento de informações desenvolvido para auxiliar na organização e acompanhamento de dados de indivíduos de interesse. Este software foi projetado com foco na eficiência, segurança e facilidade de uso, oferecendo uma interface gráfica intuitiva e funcionalidades robustas.
+
+## Características Principais
+##### Cadastro Completo: Permite o registro detalhado de informações pessoais, incluindo nome, documentos, filiação, endereços e dados de contato.
+##### Gestão de Imagens: Suporta o armazenamento de fotos principais e imagens adicionais para cada perfil.
+##### Busca Avançada: Oferece capacidade de pesquisa em múltiplos campos, facilitando a localização rápida de registros.
+##### Geração de Relatórios: Permite a criação de relatórios em PDF, tanto individuais quanto em lote, com informações detalhadas e formatação profissional.
+##### Histórico de Alterações: Mantém um registro completo de todas as modificações feitas nos perfis, garantindo rastreabilidade e auditoria.
+##### Interface Intuitiva: Desenvolvida com PyQt5, oferece uma experiência de usuário fluida e responsiva.
+##### Segurança: Implementa controle de acesso por senha e mantém logs detalhados de todas as operações realizadas.
+##### Backup e Restauração: Facilita a criação de backups e a restauração de dados, garantindo a integridade das informações.
+
+## Tecnologias Utilizadas
+##### Python 3.x
+##### PyQt5 para interface gráfica
+##### SQLite para armazenamento de dados
+##### ReportLab para geração de PDFs
+##### Bibliotecas adicionais: hashlib, json, qrcode, entre outras
+
+## Aplicações
+O AlvoTracker é ideal para delegacias que necessitam manter um registro detalhado e seguro de indivíduos, com capacidade de rápida recuperação de informações e geração de relatórios. Sua flexibilidade permite adaptação para diversos contextos onde o monitoramento e a gestão de informações pessoais são cruciais.
 
 ## Download
 Baixe a versão mais recente aqui:

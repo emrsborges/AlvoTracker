@@ -5,6 +5,8 @@ AlvoTracker é um sistema de gerenciamento de informações desenvolvido para au
 
 ## Características Principais
 ##### Cadastro Completo: Permite o registro detalhado de informações pessoais, incluindo nome, documentos, filiação, endereços e dados de contato.
+##### Sistema de Geocodificação e Localização: O sistema agora integra a Google Maps API para geocodificação de endereços, e um cache de coordenadas foi implementado para melhorar a performance e reduzir chamadas externas. Uso do Google Earth para plotagem dos alvos.
+##### Visualização dos endereços diretamente no mapa, proporcionando uma visão clara da localização dos alvos.
 ##### Gestão de Imagens: Suporta o armazenamento de fotos principais e imagens adicionais para cada perfil.
 ##### Busca Avançada: Oferece capacidade de pesquisa em múltiplos campos, facilitando a localização rápida de registros.
 ##### Geração de Relatórios: Permite a criação de relatórios em PDF, tanto individuais quanto em lote, com informações detalhadas e formatação profissional.
